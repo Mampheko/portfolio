@@ -4,18 +4,13 @@ function Contact() {
    return (
       <div className="app__social">
          <div>
-            <a href="https://github.com/codexpression-nj">
+            <a href="https://github.com/Mampheko">
                 <BsGithub/>
             </a>
          </div>
          <div>
-            <a href="https://www.linkedin.com/in/jessica-nokwanda-maranjane/">
+            <a href="https://www.linkedin.com/in/tanya-mampheko-7a7421193/">
                <BsLinkedin />
-            </a>
-         </div>
-         <div>
-            <a href="https://twitter.com/nokwanda_jm">
-               <BsTwitter />
             </a>
          </div>
          <div>

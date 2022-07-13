@@ -13,13 +13,14 @@ function Projects() {
          </h2>
          <span style={{color:'#98C942'}}> Codetribe Tembisa 2022</span>
 
-         <div style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', margin:'20px' }}>
-            <img src="https://avatars.githubusercontent.com/u/64089457?s=96&amp;v=4" alt="@codexpression-nj" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3" />
-            <h2 style={{margin:'5px'}}>
-               Nokwanda Jessica Maranjane
-            </h2>
-
-         </div>
+         <div class="d-md-flex flex-items-center flex-justify-between mt-1 mb-4">
+  <div class="d-flex flex-items-center mb-2 mb-md-0">
+    <img src="https://avatars.githubusercontent.com/u/108001692?s=96&amp;v=4" alt="@Mampheko" size="48" height="48" width="48" data-view-component="true" class="avatar circle mr-3"/>
+      <h2 style={{margin:'5px'}}>
+        Dimakatso Tanya Mampheko
+      </h2>
+     </div>
+</div>
          
         <Contact/>
         
